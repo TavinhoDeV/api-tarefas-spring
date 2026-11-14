@@ -1,7 +1,7 @@
 · API REST de Tarefas com Spring Boot  
 
 **Conceitos:** Spring Boot, camadas (Controller → Service → Repository), JPA/Hibernate, DTOs com `record`, Bean Validation, tratamento global de erros (`ProblemDetail`), testes com `MockMvc`.
-**Tempo estimado:** 12–20 h
+
 
 ## Passo a passo
 1. Gere o projeto (ou use este `pom.xml`): Web, Data JPA, Validation, H2.
